@@ -43,3 +43,4 @@ http://github.com - automatic! [GitHub](http://github.com)
 
 [Stars Hollow Mercantile](http://starshollowmercantile.com)
 
+![Coffee Coffee Coffee](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/1200px-A_small_cup_of_coffee.JPG)
