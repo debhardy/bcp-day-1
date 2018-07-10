@@ -34,3 +34,12 @@ use the backticks which are located above the tab key to make something stand ou
     <li> red </li>
 </ul>
 ```
+First Name | Last Name
+
+Adam | Hardy
+Deb | Hardy
+
+http://github.com - automatic! [GitHub](http://github.com)
+
+[Stars Hollow Mercantile](http://starshollowmercantile.com)
+
